@@ -5,8 +5,8 @@ $config = array();
 
 $config['db']['master']['host'] = 'localhost';
 $config['db']['master']['username'] = 'root';
-$config['db']['master']['password'] = 'root';
-$config['db']['master']['port'] = '8889';
+$config['db']['master']['password'] = 'root123456';
+$config['db']['master']['port'] = '3306';
 $config['db']['master']['database'] = 'we7';
 $config['db']['master']['charset'] = 'utf8';
 $config['db']['master']['pconnect'] = 0;
